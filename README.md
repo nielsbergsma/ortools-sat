@@ -13,6 +13,7 @@ This library provides a type-safe API for encoding `CpModelProto`, `SatParameter
 - Supported features
   - Integer and Boolean variables
   - AllDifferent, Equality NotEqual, MinEquality, MaxEquality, LessOrEqual Enforcement constraints
+  - Minimise Objective
 
 ## High-Level API
 
